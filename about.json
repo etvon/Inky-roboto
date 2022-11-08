@@ -3,7 +3,7 @@
   "component": false,
   "license_url": "https://github.com/discourse/inky-theme/blob/main/LICENSE",
   "about_url": "https://meta.discourse.org/t/inky-a-theme-to-make-reading-easy/218741",
-  "authors": teki,
+  "authors": "teki",
   "theme_version": null,
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
