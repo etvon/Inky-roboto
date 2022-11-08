@@ -1,0 +1,44 @@
+{
+  "name": "Inky",
+  "component": false,
+  "license_url": "https://github.com/discourse/inky-theme/blob/main/LICENSE",
+  "about_url": "https://meta.discourse.org/t/inky-a-theme-to-make-reading-easy/218741",
+  "assets": {
+    "roboto": "assets/roboto.woff2"
+  }
+  "authors": teki,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "Inky Light": {
+      "primary": "2b2c34",
+      "secondary": "fefefe",
+      "tertiary": "6246ea",
+      "quaternary": "fcb4b5",
+      "header_background": "fffffe",
+      "header_primary": "2b2c34",
+      "highlight": "e8e9ec",
+      "danger": "e45858",
+      "success": "2cb67d",
+      "love": "e45858"
+    },
+    "Inky Dark": {
+      "primary": "94a1b2",
+      "secondary": "040408",
+      "tertiary": "7f5af0",
+      "quaternary": "2cb67d",
+      "header_background": "242629",
+      "header_primary": "fffffe",
+      "highlight": "242629",
+      "danger": "fcb4b5",
+      "success": "2cb67d",
+      "love": "ff4245"
+    }
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
